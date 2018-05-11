@@ -10,5 +10,5 @@ def my_each(collection_array)
 end 
 
 my_each(collection_array) do |i|
-  puts i 
+  i 
 end   
